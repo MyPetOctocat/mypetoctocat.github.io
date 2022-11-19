@@ -3,7 +3,7 @@
 ### [Bachelor Thesis](https://github.com/MyPetOctocat/bachelor_2022) - SS 2022
 MLOps in Recommender Systems: Building a Continuous Training Pipeline with Concept Drift Awareness
 
-**Tools:**  Python, TensorFlow Extended, TensorFlow Recommenders, Apache Airflow, pandas, NumPy
+**Tools:**  Python, TensorFlow Extended (TFX), TensorFlow Recommenders, Apache Airflow, pandas, NumPy, Matplotlib
 
 ### [Automated Machine Learning Pipeline](https://github.com/RaphaelMitas/MLops-Gruppe-C) - WS 2021
 Development of a music recommendation generator using the Spotify API. Automated training and deployment of ML models based on real-time monitoring data.

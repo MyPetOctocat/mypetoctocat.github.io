@@ -44,7 +44,7 @@ Coursera | 2021
 ### [Machine Learning with Python – From Linear Models to Deed Learning](https://courses.edx.org/certificates/034a50aba0a14a43b8c6b8e6f834c483)
 edX | MITx 6.86x | 2020
 
-### [Advanced ReactJS](https://scrimba.com/certificate/uvNgwVc4/greact)
+### [Advanced React](https://scrimba.com/certificate/uvNgwVc4/greact)
 Scrimba | 2020
 
 
